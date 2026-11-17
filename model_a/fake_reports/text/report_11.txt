@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Kavita Mandrekar   AGE/SEX: 29/F
+PATIENT ID: CC-10241   PHONE: 98XXXXXX11   REFERRED BY: Dr. A. Kamat   DATE: 07-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: Bronchovascular markings are prominent in both lungs with mild bronchial wall thickening. There is no consolidation. No pleural effusion. The heart size is normal.
+IMPRESSION: Bronchitis changes. Clinical correlation advised.

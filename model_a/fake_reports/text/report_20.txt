@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Pooja Naik   AGE/SEX: 15/F
+PATIENT ID: CC-10250   PHONE: 98XXXXXX20   REFERRED BY: Dr. M. Naik   DATE: 11-11-2026
+EXAM: Thoracolumbar spine X-ray AP view (standing)
+FINDINGS: There is a curvature of the thoracolumbar spine convex to the right with a Cobb angle of about 18 degrees. The vertebral bodies are normal in shape. The pedicles are symmetrical.
+IMPRESSION: Mild scoliosis of the thoracolumbar spine. Follow-up in 6 months advised.

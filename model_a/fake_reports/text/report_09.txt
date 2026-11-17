@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Lata Sawant   AGE/SEX: 58/F
+PATIENT ID: CC-10239   PHONE: 98XXXXXX09   REFERRED BY: Dr. M. Naik   DATE: 06-11-2026
+EXAM: Right knee X-ray AP and lateral view
+FINDINGS: The joint space is reduced in the medial compartment. Marginal osteophytes and subchondral sclerosis are seen. No fracture or dislocation. The soft tissues are unremarkable.
+IMPRESSION: Moderate osteoarthritis of the right knee (Kellgren-Lawrence grade 3). Orthopedic opinion advised.

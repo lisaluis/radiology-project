@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Sunita Desai   AGE/SEX: 45/F
+PATIENT ID: CC-10232   PHONE: 98XXXXXX02   REFERRED BY: Dr. R. Fernandes   DATE: 02-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: Mild opacity is seen in the right lower zone, likely consolidation. The heart size is normal. No pleural effusion. The bony thorax is normal.
+IMPRESSION: Right lower zone consolidation. Clinical correlation advised.

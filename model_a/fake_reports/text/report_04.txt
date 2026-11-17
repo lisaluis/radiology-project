@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Meena Prabhu   AGE/SEX: 68/F
+PATIENT ID: CC-10234   PHONE: 98XXXXXX04   REFERRED BY: Dr. A. Kamat   DATE: 03-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: The cardiothoracic ratio is increased to about 0.60. Pulmonary vascular markings are prominent in the upper zones. No consolidation. No pleural effusion.
+IMPRESSION: Cardiomegaly with mild pulmonary venous congestion. Cardiology review advised.

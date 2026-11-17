@@ -1,0 +1,5 @@
+venv
+fake_reports/images
+tests
+__pycache__
+ 

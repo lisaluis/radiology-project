@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Harish Kamat   AGE/SEX: 36/M
+PATIENT ID: CC-10246   PHONE: 98XXXXXX16   REFERRED BY: Dr. M. Naik   DATE: 09-11-2026
+EXAM: Left knee X-ray AP and lateral view
+FINDINGS: The joint spaces are well maintained. No fracture, bone lesion or effusion is seen. The patella is normally positioned. The soft tissues are normal.
+IMPRESSION: Normal X-ray of the left knee.

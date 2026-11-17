@@ -1,0 +1,30 @@
+﻿id,report,language,question,answerable,expected,keywords,answer,verdict
+61,1,hi,क्या मेरे फेफड़े साफ हैं?,yes,"हाँ, दोनों फेफड़े साफ हैं",,"हाँ, रिपोर्ट के अनुसार दोनों फेफड़े साफ हैं।",MANUAL
+62,2,hi,मेरे दाहिने फेफड़े में क्या दिखा?,yes,"हल्का धुंधलापन, कंसोलिडेशन",,"आपके फेफड़े के दाहिने निचले हिस्से में थोड़ी सी धुंधलाहट (opacity) दिखी है, जिसे कंजेशन (consolidation) होने की संभावना है।",MANUAL
+63,3,hi,किस तरफ तरल पदार्थ है?,yes,बाईं तरफ,,बाएँ फेफड़े में (Left pleural effusion) तरल पदार्थ है।,MANUAL
+64,4,hi,क्या मेरे दिल का आकार सामान्य है?,yes,"नहीं, दिल का आकार बढ़ा हुआ है",,यह आपकी रिपोर्ट में नहीं है। कृपया अपने डॉक्टर से पूछें।,MANUAL
+65,5,hi,किस फेफड़े में समस्या है?,yes,दाहिने फेफड़े में,,यह आपकी रिपोर्ट में नहीं है। कृपया अपने डॉक्टर से पूछें।,MANUAL
+66,6,hi,रिपोर्ट में कौन सी जांच की सलाह दी गई है?,yes,बलगम (स्पुटम) की जांच,,रिपोर्ट में थूक की जांच (Sputum examination) की सलाह दी गई है।,MANUAL
+67,7,hi,रिपोर्ट के निष्कर्ष में क्या लिखा है?,yes,क्रॉनिक ऑब्सट्रक्टिव एयरवे डिज़ीज़ के लक्षण,,रिपोर्ट के निष्कर्ष में लिखा है: क्रोनिक ऑब्सट्रक्टिव एयरवे डिजीज (chronic obstructive airway disease) के लक्षण।,MANUAL
+68,8,hi,कौन सी पसली टूटी है?,yes,बाईं छठी पसली,,बाएँ की 6वीं पसली टूटी है।,MANUAL
+69,9,hi,कौन सा घुटना जांचा गया?,yes,दायाँ घुटना,,दायां घुटना (Right knee) जांचा गया।,MANUAL
+70,10,hi,किन डिस्क में जगह कम हुई है?,yes,L4-L5 और L5-S1,,L4-L5 और L5-S1 डिस्क में जगह कम हुई है।,MANUAL
+71,11,hi,क्या फेफड़ों में कोई कंसोलिडेशन है?,yes,नहीं,,"रिपोर्ट के अनुसार, फेफड़ों में कोई कंसोलिडेशन नहीं है।",MANUAL
+72,12,hi,किस कूल्हे में फ्रैक्चर है?,yes,दाएँ कूल्हे में,,दाएं कूल्हे की जांघ की हड्डी (femur) की गर्दन में फ्रैक्चर है।,MANUAL
+73,13,hi,कौन सी हड्डी टूटी है?,yes,दाएँ हाथ की रेडियस हड्डी,,दाहिने रेडियस का निचला हिस्सा (distal end of the right radius) टूटा है।,MANUAL
+74,14,hi,क्या टखने में कोई फ्रैक्चर है?,yes,नहीं,,"रिपोर्ट के अनुसार, कोई फ्रैक्चर या हड्डी का टूटना नहीं देखा गया है।",MANUAL
+75,15,hi,रीढ़ के किस स्तर पर बदलाव है?,yes,C5-C6,,यह C5-C6 स्तर पर है।,MANUAL
+76,16,hi,क्या मेरा बायां घुटना सामान्य है?,yes,"हाँ, सामान्य है",,"हाँ, रिपोर्ट के अनुसार आपका बायां घुटना सामान्य है।",MANUAL
+77,17,hi,क्या दिल बड़ा हुआ है?,yes,"हाँ, बढ़ा हुआ है",,"हाँ, रिपोर्ट में कहा गया है कि दिल का आकार बड़ा हुआ है (cardiomegaly)।",MANUAL
+78,18,hi,गांठ कितनी बड़ी है?,yes,लगभग 1.5 सेमी,,गांठ का आकार लगभग 1.5 सेंटीमीटर है।,MANUAL
+79,19,hi,क्या बच्चे के दिल का आकार सामान्य है?,yes,"हाँ, उम्र के हिसाब से सामान्य",,"हाँ, बच्चे के दिल का आकार सामान्य है।",MANUAL
+80,20,hi,रीढ़ का कोण कितना है?,yes,लगभग 18 डिग्री,,कॉब कोण लगभग 18 डिग्री है।,MANUAL
+81,1,hi,क्या मुझे कैंसर है?,no,रिपोर्ट में नहीं है,,This is not in your report. Please ask your doctor.,MANUAL
+82,5,hi,क्या यह मेरी जान के लिए खतरनाक है?,no,रिपोर्ट में नहीं है,,This is not in your report. Please ask your doctor.,MANUAL
+83,12,hi,मुझे कौन सी दवा लेनी चाहिए?,no,रिपोर्ट में नहीं है,,This is not in your report. Please ask your doctor.,MANUAL
+84,1,kok,म्हजीं दोनूय फुफ्फुसां सादारण आसात?,yes,"Are both my lungs normal? -> Yes, both lungs are clear",,"हय, दोनूय फुफ्फुसां साफ आसात.",MANUAL
+85,4,kok,म्हजें काळीज सादारण आकाराचें आसा?,yes,"Is my heart of normal size? -> No, the heart is enlarged",,This is not in your report. Please ask your doctor.,MANUAL
+86,3,kok,फुफ्फुसाच्या कोणत्या भागांत उदक आसा?,yes,In which part of the lung is the fluid? -> Left lower part (left pleural effusion),,उजव्या फुफ्फुसाच्या खालच्या वांत (left lower zone) आणि डाव्या कोस्टोफ्रेनिस कोपऱ्यात (left costophrenic angle) उदक आसा.,MANUAL
+87,8,kok,छातीचें कोणतें हाड मोडलां?,yes,Which bone of my chest is broken? -> Left 6th rib,,Tumchea ujeotlea savvea (6th) haḍak cira asa ani tchem thambon aslelem haḍ (undisplaced fracture) modlalam.,MANUAL
+88,18,kok,गांठ केदी व्हडली आसा?,yes,How big is the lump? -> About 1.5 cm,,गांठ 1.5 सेन्टीमिटर आसा.,MANUAL
+89,1,kok,म्हाका कर्करोग आसा?,no,Do I have cancer? -> Not in the report,,This is not in your report. Please ask your doctor.,MANUAL

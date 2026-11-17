@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Prakash Volvoikar   AGE/SEX: 66/M
+PATIENT ID: CC-10237   PHONE: 98XXXXXX07   REFERRED BY: Dr. S. Borkar   DATE: 05-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: Both lungs appear hyperinflated with flattened domes of the diaphragm. Lung markings are prominent at the bases. The heart appears vertical and normal in size. No focal consolidation.
+IMPRESSION: Features of chronic obstructive airway disease.

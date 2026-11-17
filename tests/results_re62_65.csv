@@ -1,0 +1,5 @@
+﻿id,report,language,question,answerable,expected,keywords,answer,verdict
+62,2,hi,मेरे दाहिने फेफड़े में क्या दिखा?,yes,"हल्का धुंधलापन, कंसोलिडेशन",,"रिपोर्ट के अनुसार, आपके दाहिने निचले हिस्से में हल्का धंधलापन (mild opacity) देखा गया है, जो फेफड़े में संक्रमण या सूजन (consolidation) हो सकता है। इसके अलावा, दिल का आकार सामान्य है और कोई अतिरिक्त तरल पदार्थ (pleural effusion) नहीं है।",MANUAL
+63,3,hi,किस तरफ तरल पदार्थ है?,yes,बाईं तरफ,,तरल पदार्थ [pleural effusion] बाईं तरफ है।,MANUAL
+64,4,hi,क्या मेरे दिल का आकार सामान्य है?,yes,"नहीं, दिल का आकार बढ़ा हुआ है",,"नहीं, रिपोर्ट के अनुसार आपके दिल का आकार बड़ा हुआ है (cardiomegaly, increased cardiothoracic ratio)।",MANUAL
+65,5,hi,किस फेफड़े में समस्या है?,yes,दाहिने फेफड़े में,,"रिपोर्ट के अनुसार, दाईं ऊपरी छाती के क्षेत्र (right apical region) में हवा भरी हुई है [Small right pneumothorax]।",MANUAL

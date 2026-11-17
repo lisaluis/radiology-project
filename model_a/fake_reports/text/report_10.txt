@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Dinesh Pai   AGE/SEX: 47/M
+PATIENT ID: CC-10240   PHONE: 98XXXXXX10   REFERRED BY: Dr. M. Naik   DATE: 06-11-2026
+EXAM: Lumbar spine X-ray AP and lateral view
+FINDINGS: The normal lumbar lordosis is reduced. The disc height is reduced at L4-L5 and L5-S1. Mild marginal osteophytes are seen. There is no listhesis. The sacroiliac joints are normal.
+IMPRESSION: Degenerative changes of the lumbar spine with disc space narrowing at L4-L5 and L5-S1.

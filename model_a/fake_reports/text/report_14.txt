@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Sameer Kudtarkar   AGE/SEX: 21/M
+PATIENT ID: CC-10244   PHONE: 98XXXXXX14   REFERRED BY: Dr. M. Naik   DATE: 08-11-2026
+EXAM: Left ankle X-ray AP and lateral view
+FINDINGS: There is soft tissue swelling over the lateral malleolus. No fracture or dislocation is seen. The ankle mortise is maintained.
+IMPRESSION: No bony injury. Soft tissue swelling over the lateral malleolus.

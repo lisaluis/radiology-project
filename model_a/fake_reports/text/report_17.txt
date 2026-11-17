@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Shanta Bandodkar   AGE/SEX: 72/F
+PATIENT ID: CC-10247   PHONE: 98XXXXXX17   REFERRED BY: Dr. A. Kamat   DATE: 10-11-2026
+EXAM: Chest X-ray AP view (sitting)
+FINDINGS: There is bilateral perihilar haziness with upper lobe venous prominence. Small bilateral pleural effusions are seen. The cardiac silhouette is enlarged.
+IMPRESSION: Features of pulmonary congestion with small bilateral pleural effusions and cardiomegaly. Cardiology review advised.

@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Rohan Fal Desai   AGE/SEX: 33/M
+PATIENT ID: CC-10238   PHONE: 98XXXXXX08   REFERRED BY: Dr. P. Shetye   DATE: 05-11-2026
+EXAM: Chest X-ray PA and lateral view (after a fall)
+FINDINGS: There is a cortical break in the lateral part of the left 6th rib. There is no pneumothorax or pleural effusion. Both lungs are clear. The heart size is normal.
+IMPRESSION: Undisplaced fracture of the left 6th rib.

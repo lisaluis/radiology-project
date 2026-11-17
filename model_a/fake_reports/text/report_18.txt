@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Mohan Salgaonkar   AGE/SEX: 63/M
+PATIENT ID: CC-10248   PHONE: 98XXXXXX18   REFERRED BY: Dr. R. Fernandes   DATE: 10-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: A solitary, well defined, round opacity measuring about 1.5 cm is seen in the right mid zone. The rest of both lungs are clear. The heart size is normal. No pleural effusion.
+IMPRESSION: Solitary pulmonary nodule in the right mid zone. CT chest is advised for further evaluation.

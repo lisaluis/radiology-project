@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Aarav Parab   AGE/SEX: 6/M
+PATIENT ID: CC-10249   PHONE: 98XXXXXX19   REFERRED BY: Dr. K. Sinai   DATE: 11-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: Peribronchial thickening is seen in both perihilar regions with patchy haziness in the right paracardiac region. The heart size is normal for age. No pleural effusion.
+IMPRESSION: Findings suggest a lower respiratory tract infection. Clinical correlation advised.

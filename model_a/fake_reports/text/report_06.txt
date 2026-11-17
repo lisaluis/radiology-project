@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Savita Kerkar   AGE/SEX: 38/F
+PATIENT ID: CC-10236   PHONE: 98XXXXXX06   REFERRED BY: Dr. R. Fernandes   DATE: 04-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: Patchy opacities are seen in the right upper zone with a small cavity. Mild volume loss is noted on the right side. The left lung is clear. The heart size is normal.
+IMPRESSION: Findings may represent an infective or inflammatory process. Sputum examination is advised.

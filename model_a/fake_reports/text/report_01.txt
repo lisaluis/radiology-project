@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Ramesh Naik   AGE/SEX: 52/M
+PATIENT ID: CC-10231   PHONE: 98XXXXXX01   REFERRED BY: Dr. A. Kamat   DATE: 02-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: Both lungs are clear. No focal opacity is seen. The heart size is normal. Both costophrenic angles are sharp. The bony thorax and soft tissues are normal.
+IMPRESSION: Normal chest X-ray.

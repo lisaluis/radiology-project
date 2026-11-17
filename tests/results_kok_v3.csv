@@ -1,0 +1,9 @@
+﻿id,report,language,question,answerable,expected,keywords,answer,verdict
+84,1,kok,म्हजीं दोनूय फुफ्फुसां सादारण आसात?,yes,"Are both my lungs normal? -> Yes, both lungs are clear",,"होय, दोनूय फुफ्फुसां साफ [clear] आसात.",MANUAL
+85,4,kok,म्हजें काळीज सादारण आकाराचें आसा?,yes,"Is my heart of normal size? -> No, the heart is enlarged",,"ना, अहवालान म्हळां की तुमचें काळीज व्हड जालां [Cardiomegaly]. तशेंच, छातींतल्या काळजाचें प्रमाण [cardiothoracic ratio] वाडलां आनी ते सुमारे ०.६० जालां.",MANUAL
+86,3,kok,फुफ्फुसाच्या कोणत्या भागांत उदक आसा?,yes,In which part of the lung is the fluid? -> Left lower part (left pleural effusion),,"उजव्या फुफ्फुसाचे दायऱ्यांत [right lung] उदक आसा काय? ना, उजवे फुफ्फुस साफ [clear] आसा. उजव्या फुफ्फुसाचो उल्लेख केला तो साफ आसा, पूण बाणाच्या उजव्या वा भागांत [left pleural effusion] उदक [fluid] आसा. 
+
+(टीप: अहवालानुसार डाव्या फुफ्फुसाच्या खालच्या भागांत [left lower zone] आणि डाव्या बाजूच्या कोपऱ्यांत [left costophrenic angle] उदक [effusion] आसा.)",MANUAL
+87,8,kok,छातीचें कोणतें हाड मोडलां?,yes,Which bone of my chest is broken? -> Left 6th rib,,दाव्या (left) पानाचे सववे (6th) पांजर्याचे हाड (rib) मोडलां [undisplaced fracture of the left 6th rib].,MANUAL
+88,18,kok,गांठ केदी व्हडली आसा?,yes,How big is the lump? -> About 1.5 cm,,गांठ [solitary pulmonary nodule] १.५ सेंमी आसा.,MANUAL
+89,1,kok,म्हाका कर्करोग आसा?,no,Do I have cancer? -> Not in the report,,हें तुमच्या रिपोर्टांत ना. उपकार करून तुमच्या डॉक्टराक विचारात.,MANUAL

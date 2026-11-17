@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Anil Gaonkar   AGE/SEX: 24/M
+PATIENT ID: CC-10235   PHONE: 98XXXXXX05   REFERRED BY: Dr. P. Shetye   DATE: 04-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: A thin visceral pleural line is seen in the right apical region with absent lung markings beyond it. There is no mediastinal shift. The left lung is clear. The heart size is normal.
+IMPRESSION: Small right pneumothorax. Urgent clinical correlation advised.

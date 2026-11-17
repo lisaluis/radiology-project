@@ -1,0 +1,11 @@
+﻿id,report,language,question,answerable,expected,keywords,answer,verdict
+1,1,en,Are both of my lungs clear?,yes,"Yes, both lungs are clear",clear|yes,"Yes, both lungs are clear.",PASS
+2,1,en,Are the angles at the bottom of my lungs sharp?,yes,"Yes, the costophrenic angles are sharp",sharp|yes|normal,"Yes, both angles at the bottom of your lungs [costophrenic angles] are sharp.",PASS
+3,1,en,Do I have cancer?,no,Not in the report,,This is not in your report. Please ask your doctor.,PASS
+4,2,en,What was seen in the right lower part of my lungs?,yes,"Mild opacity, likely consolidation",opacity|cloudy|consolidation|hazy,"There is a mild hazy area, likely [consolidation], seen in the right lower zone.",PASS
+5,2,en,Is there fluid around my lungs?,yes,No pleural effusion,no pleural|no fluid|no extra|there is no|not,No pleural effusion.,PASS
+6,2,en,Do I have pneumonia?,no,Not in the report (it says consolidation only),,This is not in your report. Please ask your doctor.,PASS
+7,3,en,Which side has the fluid?,yes,Left side,left,The fluid is on the left side [left pleural effusion].,PASS
+8,3,en,What does the impression say?,yes,Left pleural effusion,pleural effusion|fluid,The impression says there is a fluid collection around the left lung [left pleural effusion].,PASS
+9,3,en,How long will it take to heal?,no,Not in the report,,This is not in your report. Please ask your doctor.,PASS
+10,4,en,Is the size of my heart normal?,yes,"No, the heart is enlarged (cardiothoracic ratio about 0.60)",increased|enlarged|not normal|bigger|large,Your heart size is larger than normal [cardiomegaly] because the cardiothoracic ratio is increased to about 0.60.,PASS

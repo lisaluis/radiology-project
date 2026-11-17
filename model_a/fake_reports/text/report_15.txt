@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Vandana Chodankar   AGE/SEX: 50/F
+PATIENT ID: CC-10245   PHONE: 98XXXXXX15   REFERRED BY: Dr. S. Borkar   DATE: 09-11-2026
+EXAM: Cervical spine X-ray AP and lateral view
+FINDINGS: The normal cervical lordosis is straightened. The disc space is reduced at C5-C6 with anterior and posterior osteophytes. The prevertebral soft tissues are normal. No listhesis.
+IMPRESSION: Cervical spondylosis, most marked at C5-C6.

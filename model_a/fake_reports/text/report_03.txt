@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Joseph D'Souza   AGE/SEX: 61/M
+PATIENT ID: CC-10233   PHONE: 98XXXXXX03   REFERRED BY: Dr. S. Borkar   DATE: 03-11-2026
+EXAM: Chest X-ray PA view
+FINDINGS: There is blunting of the left costophrenic angle with a homogeneous opacity in the left lower zone, with a meniscus sign. The right lung is clear. The heart size is within normal limits.
+IMPRESSION: Left pleural effusion. Ultrasound correlation is suggested.

@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Gopal Shirodkar   AGE/SEX: 74/M
+PATIENT ID: CC-10242   PHONE: 98XXXXXX12   REFERRED BY: Dr. M. Naik   DATE: 07-11-2026
+EXAM: Right hip X-ray AP view (after a fall)
+FINDINGS: There is a displaced fracture through the neck of the right femur with shortening and upward displacement of the femoral shaft. The left hip joint is normal. Generalised reduction in bone density is noted.
+IMPRESSION: Displaced fracture of the neck of the right femur. Urgent orthopedic opinion advised.

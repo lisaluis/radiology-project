@@ -1,0 +1,5 @@
+HOSPITAL: City Care Hospital   PATIENT: Nisha Rao   AGE/SEX: 55/F
+PATIENT ID: CC-10243   PHONE: 98XXXXXX13   REFERRED BY: Dr. P. Shetye   DATE: 08-11-2026
+EXAM: Right wrist X-ray AP and lateral view
+FINDINGS: A transverse fracture is seen through the distal end of the right radius with dorsal angulation of the distal fragment. The ulnar styloid is intact. The carpal bones are normally aligned.
+IMPRESSION: Fracture of the distal end of the right radius (Colles type).

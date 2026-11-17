@@ -1,0 +1,90 @@
+﻿id,report,language,question,answerable,expected,keywords
+1,1,en,Are both of my lungs clear?,yes,"Yes, both lungs are clear",clear|yes
+2,1,en,Are the angles at the bottom of my lungs sharp?,yes,"Yes, the costophrenic angles are sharp",sharp|yes|normal
+3,1,en,Do I have cancer?,no,Not in the report,
+4,2,en,What was seen in the right lower part of my lungs?,yes,"Mild opacity, likely consolidation",opacity|cloudy|consolidation|hazy
+5,2,en,Is there fluid around my lungs?,yes,No pleural effusion,no pleural|no fluid|no extra|there is no|not
+6,2,en,Do I have pneumonia?,no,Not in the report (it says consolidation only),
+7,3,en,Which side has the fluid?,yes,Left side,left
+8,3,en,What does the impression say?,yes,Left pleural effusion,pleural effusion|fluid
+9,3,en,How long will it take to heal?,no,Not in the report,
+10,4,en,Is the size of my heart normal?,yes,"No, the heart is enlarged (cardiothoracic ratio about 0.60)",increased|enlarged|not normal|bigger|large
+11,4,en,Is there any consolidation in my lungs?,yes,No consolidation,no consolidation|there is no|not seen|no signs
+12,4,en,Do I need surgery?,no,Not in the report,
+13,5,en,Which lung has the problem?,yes,Right lung,right
+14,5,en,Has the middle of the chest shifted?,yes,No mediastinal shift,no shift|no mediastinal|not shifted|there is no|no sign
+15,5,en,Is this dangerous for my life?,no,Not in the report,
+16,6,en,Where are the patchy opacities?,yes,Right upper zone,right upper
+17,6,en,What test does the report advise?,yes,Sputum examination,sputum
+18,6,en,Do I have tuberculosis?,no,Not in the report (it only says infective or inflammatory process),
+19,7,en,What does the impression say?,yes,Features of chronic obstructive airway disease,obstructive|airway
+20,7,en,Do my lungs look hyperinflated?,yes,"Yes, both lungs are hyperinflated",hyperinflated|yes
+21,7,en,Is it because I smoke too much?,no,Not in the report,
+22,8,en,Which rib is broken?,yes,Left 6th rib,6th|sixth
+23,8,en,Is there a collapsed lung?,yes,No pneumothorax,no pneumothorax|not seen|there is no|no collapsed
+24,8,en,How many weeks until I can play sports again?,no,Not in the report,
+25,9,en,Which knee was examined?,yes,Right knee,right
+26,9,en,What grade of osteoarthritis does the report mention?,yes,"Moderate, Kellgren-Lawrence grade 3",grade 3|3|moderate
+27,9,en,Do I need a knee replacement?,no,Not in the report,
+28,10,en,Which discs have reduced height?,yes,L4-L5 and L5-S1,l4|l5
+29,10,en,Is there any slipped vertebra?,yes,No listhesis,no listhesis|there is no|not seen|no slip
+30,10,en,Will I need an operation?,no,Not in the report,
+31,11,en,Is there any consolidation?,yes,No consolidation,no consolidation|there is no|not seen
+32,11,en,What change is seen in the bronchial walls?,yes,Mild thickening,thicken
+33,11,en,Should I take antibiotics?,no,Not in the report,
+34,12,en,Which hip has the fracture?,yes,"Right hip, neck of the femur",right
+35,12,en,Is the left hip normal?,yes,"Yes, the left hip joint is normal",normal|yes
+36,12,en,How soon should the surgery be done?,no,Not in the report (it only advises urgent orthopedic opinion),
+37,13,en,Which bone is broken?,yes,Distal end of the right radius,radius
+38,13,en,Is the ulnar styloid intact?,yes,"Yes, it is intact",intact|yes|not broken
+39,13,en,Do I need a cast?,no,Not in the report,
+40,14,en,Is there any fracture in my ankle?,yes,No fracture or dislocation,no fracture|no bony|there is no|not seen
+41,14,en,What swelling is mentioned?,yes,Soft tissue swelling over the lateral malleolus,lateral malleolus|soft tissue|outer
+42,14,en,Is it a ligament tear?,no,Not in the report,
+43,15,en,At which level is the disc space reduced?,yes,C5-C6,c5
+44,15,en,What does the impression say?,yes,Cervical spondylosis,spondylosis
+45,15,en,Will my neck pain go away?,no,Not in the report,
+46,16,en,Is my left knee normal?,yes,"Yes, the X-ray is normal",normal|yes
+47,16,en,Is there any fracture?,yes,No fracture,no fracture|there is no|not seen|no bone
+48,16,en,Why does my knee hurt?,no,Not in the report,
+49,17,en,Is the heart enlarged?,yes,"Yes, the cardiac silhouette is enlarged",enlarged|yes
+50,17,en,Are there fluid collections around the lungs?,yes,"Yes, small bilateral pleural effusions",small|bilateral|pleural effusion|yes
+51,17,en,Do I have heart failure?,no,Not in the report (it says pulmonary congestion),
+52,18,en,How big is the nodule?,yes,About 1.5 cm,1.5
+53,18,en,Where is the nodule?,yes,Right mid zone,right mid|right lung
+54,18,en,Is the nodule cancer?,no,Not in the report (it advises a CT chest),
+55,19,en,Is the heart size normal for the child's age?,yes,"Yes, normal for age",normal|yes
+56,19,en,What kind of problem do the findings suggest?,yes,Lower respiratory tract infection,respiratory|infection
+57,19,en,Which antibiotic should my child take?,no,Not in the report,
+58,20,en,What is the Cobb angle?,yes,About 18 degrees,18
+59,20,en,Which way does the spine curve?,yes,To the right,right
+60,20,en,Does my daughter need a brace?,no,Not in the report,
+61,1,hi,क्या मेरे फेफड़े साफ हैं?,yes,"हाँ, दोनों फेफड़े साफ हैं",
+62,2,hi,मेरे दाहिने फेफड़े में क्या दिखा?,yes,"हल्का धुंधलापन, कंसोलिडेशन",
+63,3,hi,किस तरफ तरल पदार्थ है?,yes,बाईं तरफ,
+64,4,hi,क्या मेरे दिल का आकार सामान्य है?,yes,"नहीं, दिल का आकार बढ़ा हुआ है",
+65,5,hi,किस फेफड़े में समस्या है?,yes,दाहिने फेफड़े में,
+66,6,hi,रिपोर्ट में कौन सी जांच की सलाह दी गई है?,yes,बलगम (स्पुटम) की जांच,
+67,7,hi,रिपोर्ट के निष्कर्ष में क्या लिखा है?,yes,क्रॉनिक ऑब्सट्रक्टिव एयरवे डिज़ीज़ के लक्षण,
+68,8,hi,कौन सी पसली टूटी है?,yes,बाईं छठी पसली,
+69,9,hi,कौन सा घुटना जांचा गया?,yes,दायाँ घुटना,
+70,10,hi,किन डिस्क में जगह कम हुई है?,yes,L4-L5 और L5-S1,
+71,11,hi,क्या फेफड़ों में कोई कंसोलिडेशन है?,yes,नहीं,
+72,12,hi,किस कूल्हे में फ्रैक्चर है?,yes,दाएँ कूल्हे में,
+73,13,hi,कौन सी हड्डी टूटी है?,yes,दाएँ हाथ की रेडियस हड्डी,
+74,14,hi,क्या टखने में कोई फ्रैक्चर है?,yes,नहीं,
+75,15,hi,रीढ़ के किस स्तर पर बदलाव है?,yes,C5-C6,
+76,16,hi,क्या मेरा बायां घुटना सामान्य है?,yes,"हाँ, सामान्य है",
+77,17,hi,क्या दिल बड़ा हुआ है?,yes,"हाँ, बढ़ा हुआ है",
+78,18,hi,गांठ कितनी बड़ी है?,yes,लगभग 1.5 सेमी,
+79,19,hi,क्या बच्चे के दिल का आकार सामान्य है?,yes,"हाँ, उम्र के हिसाब से सामान्य",
+80,20,hi,रीढ़ का कोण कितना है?,yes,लगभग 18 डिग्री,
+81,1,hi,क्या मुझे कैंसर है?,no,रिपोर्ट में नहीं है,
+82,5,hi,क्या यह मेरी जान के लिए खतरनाक है?,no,रिपोर्ट में नहीं है,
+83,12,hi,मुझे कौन सी दवा लेनी चाहिए?,no,रिपोर्ट में नहीं है,
+84,1,kok,म्हजीं दोनूय फुफ्फुसां सादारण आसात?,yes,"Are both my lungs normal? -> Yes, both lungs are clear",
+85,4,kok,म्हजें काळीज सादारण आकाराचें आसा?,yes,"Is my heart of normal size? -> No, the heart is enlarged",
+86,3,kok,फुफ्फुसाच्या कोणत्या भागांत उदक आसा?,yes,In which part of the lung is the fluid? -> Left lower part (left pleural effusion),
+87,8,kok,छातीचें कोणतें हाड मोडलां?,yes,Which bone of my chest is broken? -> Left 6th rib,
+88,18,kok,गांठ केदी व्हडली आसा?,yes,How big is the lump? -> About 1.5 cm,
+89,1,kok,म्हाका कर्करोग आसा?,no,Do I have cancer? -> Not in the report,
